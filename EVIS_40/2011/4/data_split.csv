@@ -1,0 +1,401 @@
+,path,label
+0,Car/000024.jpg,7
+1,electronic watch/000029.jpg,2
+2,laptop/000006.jpg,3
+3,Van/000019.jpg,9
+4,tablet pc/000001.jpg,5
+5,Car/000023.jpg,7
+6,Van/000036.jpg,9
+7,Car/000008.jpg,7
+8,phone/000010.jpg,4
+9,electronic watch/000019.jpg,2
+10,phone/000003.jpg,4
+11,Car/000035.jpg,7
+12,tablet pc/000034.jpg,5
+13,laptop/000022.jpg,3
+14,Truck/000011.jpg,8
+15,tablet pc/000011.jpg,5
+16,Van/000027.jpg,9
+17,tablet pc/000036.jpg,5
+18,television/000006.jpg,1
+19,Bus/000005.jpg,0
+20,Truck/000006.jpg,8
+21,laptop/000031.jpg,3
+22,tablet pc/000030.jpg,5
+23,television/000035.jpg,1
+24,Truck/000004.jpg,8
+25,electronic watch/000023.jpg,2
+26,tablet pc/000027.png,5
+27,Truck/000033.jpg,8
+28,laptop/000028.jpg,3
+29,Van/000020.jpg,9
+30,Car/000018.jpg,7
+31,Car/000032.jpg,7
+32,electronic watch/000004.jpg,2
+33,television/000004.jpg,1
+34,Taxi/000018.jpg,6
+35,Car/000037.jpg,7
+36,laptop/000040.jpg,3
+37,electronic watch/000039.jpg,2
+38,phone/000016.jpg,4
+39,Bus/000039.jpg,0
+40,electronic watch/000022.jpg,2
+41,Truck/000016.jpg,8
+42,phone/000005.jpg,4
+43,Taxi/000011.jpg,6
+44,phone/000015.jpg,4
+45,Truck/000028.jpg,8
+46,Truck/000014.jpg,8
+47,tablet pc/000038.jpg,5
+48,laptop/000029.jpg,3
+49,electronic watch/000011.jpg,2
+50,television/000010.jpg,1
+51,Taxi/000020.jpg,6
+52,Taxi/000005.jpg,6
+53,Car/000022.jpg,7
+54,Taxi/000029.jpg,6
+55,Taxi/000027.jpg,6
+56,laptop/000023.jpg,3
+57,tablet pc/000006.jpg,5
+58,Taxi/000026.jpg,6
+59,phone/000009.jpg,4
+60,Van/000012.jpg,9
+61,Bus/000007.jpg,0
+62,Car/000014.jpg,7
+63,Taxi/000039.png,6
+64,phone/000025.jpg,4
+65,television/000023.jpg,1
+66,tablet pc/000039.png,5
+67,Bus/000014.jpg,0
+68,electronic watch/000017.jpg,2
+69,television/000018.jpg,1
+70,television/000008.jpg,1
+71,Car/000017.jpg,7
+72,Car/000026.jpg,7
+73,Truck/000030.jpg,8
+74,electronic watch/000008.jpg,2
+75,Taxi/000002.jpg,6
+76,Car/000040.jpg,7
+77,electronic watch/000002.jpg,2
+78,Taxi/000006.jpg,6
+79,laptop/000003.jpg,3
+80,Car/000019.jpg,7
+81,phone/000008.jpg,4
+82,Truck/000013.jpg,8
+83,laptop/000007.jpg,3
+84,Car/000020.jpg,7
+85,television/000026.jpg,1
+86,Car/000027.jpg,7
+87,electronic watch/000027.jpg,2
+88,tablet pc/000008.jpg,5
+89,laptop/000034.png,3
+90,phone/000019.jpg,4
+91,tablet pc/000007.jpg,5
+92,Van/000021.jpg,9
+93,Van/000031.jpg,9
+94,television/000025.jpg,1
+95,laptop/000027.jpg,3
+96,Van/000010.jpg,9
+97,phone/000040.jpg,4
+98,television/000040.jpg,1
+99,Taxi/000004.jpg,6
+100,Truck/000029.jpg,8
+101,phone/000035.jpg,4
+102,Car/000012.jpg,7
+103,electronic watch/000030.jpg,2
+104,Taxi/000040.jpg,6
+105,phone/000013.jpg,4
+106,Bus/000017.jpg,0
+107,Bus/000006.jpg,0
+108,Bus/000027.jpg,0
+109,Car/000013.jpg,7
+110,Van/000014.jpg,9
+111,laptop/000001.jpg,3
+112,television/000021.jpg,1
+113,electronic watch/000038.jpg,2
+114,Van/000001.jpg,9
+115,Van/000029.jpg,9
+116,Taxi/000036.jpg,6
+117,Taxi/000010.jpg,6
+118,Van/000007.jpg,9
+119,Bus/000032.jpg,0
+120,Car/000011.jpg,7
+121,Van/000003.jpg,9
+122,laptop/000009.jpg,3
+123,phone/000031.jpg,4
+124,Taxi/000014.jpg,6
+125,Truck/000035.jpg,8
+126,phone/000032.jpg,4
+127,Taxi/000034.jpg,6
+128,tablet pc/000033.jpg,5
+129,Van/000030.jpg,9
+130,Van/000037.jpg,9
+131,electronic watch/000007.jpg,2
+132,phone/000028.jpg,4
+133,Taxi/000024.jpg,6
+134,Bus/000020.jpg,0
+135,Truck/000007.jpg,8
+136,Truck/000001.jpg,8
+137,Taxi/000031.jpg,6
+138,Van/000005.jpg,9
+139,Bus/000013.jpg,0
+140,Van/000008.jpg,9
+141,electronic watch/000010.jpg,2
+142,Taxi/000008.jpg,6
+143,phone/000034.jpg,4
+144,Truck/000025.jpg,8
+145,Taxi/000023.jpg,6
+146,Taxi/000022.jpg,6
+147,Bus/000035.jpg,0
+148,television/000020.jpg,1
+149,Van/000018.jpg,9
+150,laptop/000017.jpg,3
+151,electronic watch/000034.jpg,2
+152,television/000001.jpg,1
+153,television/000027.jpg,1
+154,laptop/000016.jpg,3
+155,Car/000003.jpg,7
+156,Taxi/000028.png,6
+157,laptop/000012.jpg,3
+158,Bus/000038.jpg,0
+159,Car/000009.jpg,7
+160,Taxi/000030.jpg,6
+161,Truck/000015.jpg,8
+162,Bus/000025.jpg,0
+163,Car/000036.jpg,7
+164,laptop/000019.jpg,3
+165,Bus/000023.jpg,0
+166,phone/000021.jpg,4
+167,Taxi/000037.jpg,6
+168,Truck/000008.jpg,8
+169,phone/000027.jpg,4
+170,Bus/000002.jpg,0
+171,television/000039.jpg,1
+172,Van/000016.jpg,9
+173,Van/000039.jpg,9
+174,tablet pc/000024.jpg,5
+175,Van/000034.jpg,9
+176,Car/000005.jpg,7
+177,Bus/000015.jpg,0
+178,Taxi/000025.jpg,6
+179,tablet pc/000018.jpg,5
+180,electronic watch/000003.jpg,2
+181,television/000017.jpg,1
+182,Taxi/000007.jpg,6
+183,tablet pc/000023.jpg,5
+184,electronic watch/000016.jpg,2
+185,Car/000039.jpg,7
+186,Car/000031.jpg,7
+187,phone/000037.jpg,4
+188,electronic watch/000037.jpg,2
+189,laptop/000020.png,3
+190,Car/000010.jpg,7
+191,Bus/000018.jpg,0
+192,laptop/000035.jpg,3
+193,Van/000009.jpg,9
+194,laptop/000032.jpg,3
+195,phone/000023.jpg,4
+196,Car/000004.jpg,7
+197,Bus/000004.jpg,0
+198,Truck/000034.jpg,8
+199,television/000038.jpg,1
+200,television/000034.jpg,1
+201,Bus/000033.jpg,0
+202,television/000014.jpg,1
+203,electronic watch/000018.jpg,2
+204,Car/000001.jpg,7
+205,Bus/000030.jpg,0
+206,electronic watch/000024.jpg,2
+207,laptop/000026.jpg,3
+208,tablet pc/000009.jpg,5
+209,tablet pc/000010.jpg,5
+210,tablet pc/000037.jpg,5
+211,laptop/000008.jpg,3
+212,tablet pc/000029.jpg,5
+213,electronic watch/000026.jpg,2
+214,television/000005.jpg,1
+215,Truck/000022.jpg,8
+216,electronic watch/000021.jpg,2
+217,television/000016.jpg,1
+218,Taxi/000016.jpg,6
+219,electronic watch/000009.jpg,2
+220,Van/000023.png,9
+221,Truck/000032.jpg,8
+222,Bus/000016.jpg,0
+223,Car/000021.jpg,7
+224,Bus/000036.jpg,0
+225,electronic watch/000031.jpg,2
+226,Bus/000010.jpg,0
+227,electronic watch/000035.jpg,2
+228,phone/000017.jpg,4
+229,tablet pc/000013.jpg,5
+230,electronic watch/000014.jpg,2
+231,laptop/000005.jpg,3
+232,Truck/000026.jpg,8
+233,Truck/000036.jpg,8
+234,Van/000006.jpg,9
+235,laptop/000010.jpg,3
+236,tablet pc/000021.jpg,5
+237,Bus/000021.jpg,0
+238,tablet pc/000020.jpg,5
+239,Van/000004.jpg,9
+240,Taxi/000017.jpg,6
+241,television/000032.jpg,1
+242,phone/000020.jpg,4
+243,Bus/000026.jpg,0
+244,television/000031.jpg,1
+245,Taxi/000032.jpg,6
+246,Car/000025.jpg,7
+247,Van/000013.jpg,9
+248,Bus/000009.jpg,0
+249,Truck/000010.jpg,8
+250,phone/000001.jpg,4
+251,television/000013.jpg,1
+252,Truck/000037.jpg,8
+253,Car/000016.jpg,7
+254,Taxi/000013.jpg,6
+255,Car/000033.jpg,7
+256,phone/000007.png,4
+257,laptop/000013.jpg,3
+258,tablet pc/000022.jpg,5
+259,Taxi/000001.jpg,6
+260,Van/000032.jpg,9
+261,phone/000022.jpg,4
+262,television/000033.jpg,1
+263,Truck/000031.jpg,8
+264,Bus/000011.jpg,0
+265,laptop/000025.jpg,3
+266,Bus/000029.jpg,0
+267,Van/000035.jpg,9
+268,Car/000002.jpg,7
+269,Truck/000038.jpg,8
+270,electronic watch/000013.jpg,2
+271,Van/000024.jpg,9
+272,Bus/000024.jpg,0
+273,phone/000014.jpg,4
+274,Bus/000003.jpg,0
+275,Taxi/000035.jpg,6
+276,Van/000028.jpg,9
+277,television/000002.jpg,1
+278,television/000007.jpg,1
+279,Car/000006.jpg,7
+280,phone/000004.jpg,4
+281,Truck/000039.jpg,8
+282,tablet pc/000014.jpg,5
+283,electronic watch/000015.jpg,2
+284,Truck/000009.jpg,8
+285,Taxi/000038.jpg,6
+286,electronic watch/000025.jpg,2
+287,laptop/000021.jpg,3
+288,Van/000033.jpg,9
+289,tablet pc/000012.jpg,5
+290,Taxi/000012.jpg,6
+291,laptop/000014.jpg,3
+292,Car/000015.jpg,7
+293,phone/000029.jpg,4
+294,Car/000028.jpg,7
+295,Truck/000005.jpg,8
+296,tablet pc/000015.jpg,5
+297,television/000015.bmp,1
+298,television/000009.jpg,1
+299,Bus/000031.jpg,0
+300,Car/000038.jpg,7
+301,Taxi/000009.jpg,6
+302,Taxi/000033.jpg,6
+303,electronic watch/000005.jpg,2
+304,electronic watch/000001.jpg,2
+305,phone/000012.jpg,4
+306,television/000024.jpg,1
+307,Car/000030.jpg,7
+308,Car/000029.jpg,7
+309,phone/000018.jpg,4
+310,tablet pc/000016.jpg,5
+311,tablet pc/000026.jpg,5
+312,tablet pc/000003.jpg,5
+313,laptop/000036.jpg,3
+314,Van/000025.jpg,9
+315,Truck/000027.jpg,8
+316,phone/000002.jpg,4
+317,tablet pc/000028.jpg,5
+318,phone/000039.jpg,4
+319,tablet pc/000005.jpg,5
+320,Bus/000012.jpg,0
+321,tablet pc/000032.jpg,5
+322,Bus/000022.jpg,0
+323,Truck/000003.jpg,8
+324,television/000003.jpg,1
+325,Van/000038.jpg,9
+326,Van/000026.jpg,9
+327,Truck/000012.jpg,8
+328,phone/000011.jpg,4
+329,laptop/000030.jpg,3
+330,Truck/000024.jpg,8
+331,Taxi/000015.jpg,6
+332,tablet pc/000017.jpg,5
+333,Truck/000020.jpg,8
+334,phone/000036.png,4
+335,electronic watch/000040.jpg,2
+336,laptop/000002.jpg,3
+337,television/000037.jpg,1
+338,television/000012.jpg,1
+339,phone/000026.jpg,4
+340,Bus/000034.jpg,0
+341,electronic watch/000036.jpg,2
+342,electronic watch/000020.jpg,2
+343,laptop/000037.jpg,3
+344,laptop/000004.jpg,3
+345,electronic watch/000012.jpg,2
+346,Van/000011.jpg,9
+347,laptop/000018.jpg,3
+348,television/000019.jpg,1
+349,tablet pc/000002.jpg,5
+350,Van/000015.jpg,9
+351,Taxi/000021.jpg,6
+352,phone/000024.png,4
+353,Bus/000037.jpg,0
+354,Car/000034.jpg,7
+355,laptop/000033.jpg,3
+356,tablet pc/000031.jpg,5
+357,Truck/000002.jpg,8
+358,electronic watch/000033.jpg,2
+359,Truck/000040.jpg,8
+360,television/000022.jpg,1
+361,television/000011.jpg,1
+362,electronic watch/000006.jpg,2
+363,Bus/000001.jpg,0
+364,Truck/000023.jpg,8
+365,tablet pc/000019.jpg,5
+366,phone/000038.jpg,4
+367,Taxi/000019.jpg,6
+368,Bus/000019.jpg,0
+369,laptop/000038.jpg,3
+370,Van/000022.jpg,9
+371,Bus/000040.jpg,0
+372,laptop/000011.jpg,3
+373,Van/000040.jpg,9
+374,tablet pc/000004.jpg,5
+375,tablet pc/000025.jpg,5
+376,Van/000002.jpg,9
+377,Truck/000018.jpg,8
+378,Truck/000021.jpg,8
+379,television/000036.jpg,1
+380,Truck/000019.jpg,8
+381,tablet pc/000040.jpg,5
+382,electronic watch/000028.jpg,2
+383,phone/000030.jpg,4
+384,tablet pc/000035.jpg,5
+385,Van/000017.jpg,9
+386,television/000028.jpg,1
+387,Bus/000008.jpg,0
+388,Truck/000017.jpg,8
+389,laptop/000015.jpg,3
+390,television/000030.jpg,1
+391,laptop/000039.jpg,3
+392,electronic watch/000032.jpg,2
+393,Bus/000028.jpg,0
+394,phone/000033.jpg,4
+395,laptop/000024.jpg,3
+396,Taxi/000003.jpg,6
+397,television/000029.jpg,1
+398,Car/000007.jpg,7
+399,phone/000006.jpg,4
