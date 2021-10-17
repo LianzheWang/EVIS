@@ -4,7 +4,7 @@ In our paper "Active Gradual Domain Adaptation: Dataset and Approach", to evalua
 
 The "40" in EVIS-40 stands for there are 40 per-category image samples included for each month's searching result in the data set. 
 
-## How to Use EVIS Dataset
+## How to Use
 The whole dataset could be downloaded directly from this repository. You may also download compressed dataset from link: 
 
 Example script using EVIS dataset is available at: 
