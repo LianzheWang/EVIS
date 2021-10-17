@@ -7,7 +7,7 @@ The "40" in EVIS-40 stands for there are 40 per-category image samples included 
 ## How to Use
 The whole dataset could be downloaded directly from this repository. You may also download compressed dataset from link: 
 
-Example script using EVIS dataset is available at: 
+Example script using EVIS dataset is available at: https://github.com/LianzheWang/Active-Gradual-Domain-Adaptation-Dataset-and-Approach
 
 (It is actually the implementation of our paper. Example PyTorch EVIS dataset class is included in the script. )
 
