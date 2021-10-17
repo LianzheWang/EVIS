@@ -2,6 +2,8 @@
 
 In our paper "Active Gradual Domain Adaptation: Dataset and Approach", to evaluate the model performance on web applications with gradual domain drift, we use an automatic approach to construct a new Evolving-Image-Search (EVIS) dataset. EVIS consists of real-world web images that appeared in Google image search results.
 
+The "40" in EVIS-40 stands for there are 40 per-category image samples included for each month's searching result in the data set. 
+
 ## How to Use EVIS Dataset
 The whole dataset could be downloaded directly from this repository. You may also download compressed dataset from link: 
 
