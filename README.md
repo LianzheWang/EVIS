@@ -40,3 +40,14 @@ Furthermore, we make a study on the measurement of the degree of evolution over 
 
 ## Citation
 If you find EVIS dataset helpful in your research work, please cite our work by:
+
+```
+@ARTICLE{Zhou2021,
+author={Zhou, Shiji and Wang, Lianzhe and Zhang, Shanghang and Wang, Zhi and Zhu, Wenwu},  
+journal={IEEE Transactions on Multimedia},   
+title={Active Gradual Domain Adaptation: Dataset and Approach},   
+year={2022},   
+pages={1-1}, 
+doi={10.1109/TMM.2022.3142524}
+}
+```
